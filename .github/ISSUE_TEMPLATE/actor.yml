@@ -1,6 +1,6 @@
 name: actor
 description: actor
-labels: [actor][node]
+labels: [actor]
 body:
   - type: markdown
     attributes:
