@@ -1,8 +1,0 @@
-name: node
-description: node
-labels: [actor][node]
-body:
-  - type: markdown
-    attributes:
-      value: |
-        bla bla bla
