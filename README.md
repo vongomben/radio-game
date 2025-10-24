@@ -68,6 +68,14 @@ I'm about to release a version e of meshbot using and NFC reader. Ths means we c
 
 ## Ok. I'm a maker, I like this idea, I want to help. Where do I start?
 
+Great. You come to Shenzhen in November right? how far do you want to go in the rabbit hole of the **The Radio Game**?
+
+You could be many things:
+1) an actor --> I come to SHZ to do my stuff, I like the idea. tell me what to do if somebody is asking me about something
+2) a producer of a node --> I have Xiaos, meshtastic radios etc. I know the drill. I can make a full fledged in/out performance object that could be used in the event! 
+3) a member of the organising team. I want to help Davide be in the Control Room. 
+
+
 
 
 
