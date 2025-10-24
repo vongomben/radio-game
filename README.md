@@ -1,2 +1,57 @@
-# radio-game
+# radio-game  **广播游戏**
 a Meshtastic  powered, Borges inspired wotkshop toolkit to make events participants get to know specific elements of an event  
+
+
+# Premises and intentions:
+
+The aim of this game is to lead participants to discover elements of a place (place: a fair, an event, a place of public interest) through interaction with other users and objects, in the completion of a mission. 
+
+The subject-hero solves a educational mission through a object-value. The most ancient story told in the steppe around the fire. [Vladimir Propp in Morphology of the Folktale](https://en.wikipedia.org/wiki/Vladimir_Propp). 
+
+There are many cultural references for this approach in my mind: there is a bit of Borges in this gamification of the present, almost as if trying to make sense of the present through a game (“[The Lottery of Babylon](https://en.wikipedia.org/wiki/The_Lottery_in_Babylon)”), but also Augusto Boal and his [Invisible Theater](https://en.wikipedia.org/wiki/Invisible_theater). And then [Nanni Loy](https://en.wikipedia.org/wiki/Nanni_Loy) with the mirror...
+
+Much more simply, it is a matter of building a fixed narrative infrastructure that the user must go through in order to achieve something. 
+In doing so, they will discover certain things (about themselves, the space they are in, life). Many scholars argue that learning in this way (outside one's comfort zone) is more productive, stays better in the brain. Traumas 😂🫣.
+
+But let's get back to the matter at hand, stop this cultural violins I know you are pragmantic people lol.
+
+# Users
+
+There are three types of users in this game:
+1) Event participants, divided into teams of 3-4 players.
+2) Users within the event who will help the participants in the first group to go in a certain direction.
+3) Organizers who monitor everything.
+
+
+# How does it work?
+
+Participants are given T1000E radios (or any Meshtastic radio?). 
+Through the radios, they can communicate with each other and with the **game master** node, as well as with other users.
+
+Example: Mission #1 for group #1 is to take object #1 from the “man with the yellow hat”: they will have to find him using location tracking or simply by sight. The character will give them an object which, if taken to location #1, will allow them to move on to the next step. 
+
+## Group #1
+
+Consisting of 3-4 participants, technically it could also have more than one radio. It also exists as “group #1” on Meshtastic. The creation of the groups is up to us organizers.
+
+Object #1 has an NFC tag that can open the lock on a small box #2, but where is it? They will only find out if they solve mission #2.
+
+### How many groups will we have at the same time?
+
+With the current structure, only two. Technically, the size of the event allows for up to six. 
+
+### How can we tell who is playing?
+
+We could give participants a sticker or pin.
+
+### Is there a minimum age for participants?
+
+To be verified for use of the app, I think they must be of legal age (to be verified).
+
+
+
+
+
+
+
+
