@@ -1,11 +1,13 @@
-# **The Radio Game** or **广播游戏** or *Il Gioco Radio** or??
+# **The Radio Game** or **广播游戏** or **Il Gioco Radio** or??
 a Meshtastic  powered, Borges inspired workshop toolkit to make events participants get to know specific elements of an event
 
 The first Radio Game is going to take place at Shenzhen Maker Faire 2025 
 
 ![](./img/logo.png)
-![](./img/map1.png)
-![](./img/map2.png)
+
+![](./img/map1.png)  
+
+![](./img/map2.png)  
 
 
 
