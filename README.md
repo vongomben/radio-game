@@ -58,6 +58,13 @@ We could give participants a sticker or pin.
 To be verified for use of the app, I think they must be of legal age (to be verified).
 
 
+# Technology
+
+The idea behind this game is make people aware of the possibilities mesh communication have in an event scenario. 
+Me (as: the Game master, and the storyteller as of now), I think the whole game could be produced by simple human interactions (so no need of extra stuff!) but we are (going to be) in Shenzhen, and it's 2025.I know you want to automate and play with things. Pushing to the limit. 
+
+We could have 
+
 
 
 
