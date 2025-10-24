@@ -1,5 +1,12 @@
-# radio-game  **广播游戏**
-a Meshtastic  powered, Borges inspired wotkshop toolkit to make events participants get to know specific elements of an event  
+# **The Radio Game** or **广播游戏** or *Il Gioco Radio** or??
+a Meshtastic  powered, Borges inspired workshop toolkit to make events participants get to know specific elements of an event
+
+The first Radio Game is going to take place at Shenzhen Maker Faire 2025 
+
+![](./img/logo.png)
+![](./img/map1.png)
+![](./img/map2.png)
+
 
 
 # Premises and intentions:
@@ -18,9 +25,9 @@ But let's get back to the matter at hand, stop this cultural violins I know you 
 # Users
 
 There are three types of users in this game:
-1) Event participants, divided into teams of 3-4 players.
-2) Users within the event who will help the participants in the first group to go in a certain direction.
-3) Organizers who monitor everything.
+1) Event **participants**, divided into **groups** of 3-4 players.
+2) **Actors** within the event who will help the participants group to go in a certain direction.
+3) **Organizers** who monitor everything and produce the gmae.
 
 
 # How does it work?
@@ -28,7 +35,7 @@ There are three types of users in this game:
 Participants are given T1000E radios (or any Meshtastic radio?). 
 Through the radios, they can communicate with each other and with the **game master** node, as well as with other users.
 
-Example: Mission #1 for group #1 is to take object #1 from the “man with the yellow hat”: they will have to find him using location tracking or simply by sight. The character will give them an object which, if taken to location #1, will allow them to move on to the next step. 
+**Example**: Mission #1 for group #1 is to take object #1 from the “man with the yellow hat”: they will have to find him using location tracking or simply by sight. The character will give them an object which, if taken to location #1, will allow them to move on to the next step. 
 
 ## Group #1
 
