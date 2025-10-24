@@ -63,7 +63,12 @@ To be verified for use of the app, I think they must be of legal age (to be veri
 The idea behind this game is make people aware of the possibilities mesh communication have in an event scenario. 
 Me (as: the Game master, and the storyteller as of now), I think the whole game could be produced by simple human interactions (so no need of extra stuff!) but we are (going to be) in Shenzhen, and it's 2025.I know you want to automate and play with things. Pushing to the limit. 
 
-We could have 
+We could have nodes that behave and talk to the mesh using [meshbot](https://github.com/vongomben/meshbot).
+I'm about to release a version e of meshbot using and NFC reader. Ths means we could have a node broadcasting the tags it listens and this can create things
+
+## Ok. I'm a maker, I like this idea, I want to help. Where do I start?
+
+
 
 
 
