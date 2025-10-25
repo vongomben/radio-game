@@ -1,5 +1,5 @@
-# **The Radio Game** or **广播游戏** or **Il Gioco Radio** or??
-a Meshtastic  powered, Borges inspired workshop toolkit to make events participants get to know specific elements of an event
+# **The Radio Game** or **广播游戏** or **Il Gioco Radio** or 
+a Meshtastic  powered, Borges/Boal/Propp inspired workshop toolkit to make events participants get to know specific elements of an event
 
 The first Radio Game is going to take place at Shenzhen Maker Faire 2025 
 
@@ -20,7 +20,9 @@ The subject-hero solves a educational mission through a object-value. The most a
 There are many cultural references for this approach in my mind: there is a bit of Borges in this gamification of the present, almost as if trying to make sense of the present through a game (“[The Lottery of Babylon](https://en.wikipedia.org/wiki/The_Lottery_in_Babylon)”), but also Augusto Boal and his [Invisible Theater](https://en.wikipedia.org/wiki/Invisible_theater). And then [Nanni Loy](https://en.wikipedia.org/wiki/Nanni_Loy) with the mirror...
 
 Much more simply, it is a matter of building a fixed narrative infrastructure that the user must go through in order to achieve something. 
-In doing so, they will discover certain things (about themselves, the space they are in, life). Many scholars argue that learning in this way (outside one's comfort zone) is more productive, stays better in the brain. Traumas 😂🫣.
+In doing so, they will discover certain things (about themselves, the space they are in, life). 
+
+Many scholars argue that learning in this way (outside one's comfort zone) is more productive, stays better in the brain. Traumas 😂🫣.
 
 But let's get back to the matter at hand, stop this cultural violins I know you are pragmantic people lol.
 
