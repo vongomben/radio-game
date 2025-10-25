@@ -45,7 +45,7 @@ Through the radios, they can communicate with each other and with the **game mas
 
 Consisting of 3-4 participants, technically it could also have more than one radio. It also exists as “group #1” on Meshtastic. The creation of the groups is up to us organizers.
 
-Object #1 has an NFC tag that can open the lock on a small box #2, but where is it? They will only find out if they solve mission #2.
+**Example**: Object #1 has an NFC tag that can open the lock on a small box #2, but where is it? They will only find out if they solve mission #2.
 
 ### How many groups will we have at the same time?
 
