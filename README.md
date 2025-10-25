@@ -74,7 +74,7 @@ Great. You come to Shenzhen in November right? how far do you want to go in the 
 
 You could be many things:
 1) an **Actor** --> I come to SHZ to do my stuff, I like the idea. tell me what to do if somebody is asking me about something. [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team you want to be part as an actor.
-2) a **member of the organizing team**. I want to help the team be in the Control Room (which is probably going to be a table with some chairs :) [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team you want to be part as an organizer!
+2) a **member of the organizing team / facilitator**. I want to help the team be in the Control Room and dealing with the users (which is probably going to be a table with some chairs :) [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team you want to be part as an organizer!
 3) a **Producer of a node** --> I have Xiaos, meshtastic radios etc. I know the drill. I can make a full fledged in/out performance object that could be used in the event! [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team how you want to sew this into an organic and complex, temporary mayhem.
 
 In the case of a Producer, these nodes are welcome:
@@ -86,8 +86,11 @@ Obvouisly, this has to meet the location's needs, and shouldn't bother or make t
 
 We'll eventually manage the operations from Chaihuo Makerspace in the limited timed windows this project will happen.  
 
+# TODOs:
 
-
+- [ ] Prizes. Will there be any? Gifted by Seeed?
+- [ ] Shall we involve other Meshtastic producers other than Seeed (I still have to check whether Seeed wnats to be involved 🫣)
+- [ ] Rounds. We are going to have 2 rounds/games per day, 11 AM and 12 AM on saturday and sunday. Maybe we could do more. Let's see
 
 
 
