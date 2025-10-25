@@ -71,9 +71,9 @@ I'm about to release a version of meshbot using and NFC reader. Ths means we cou
 Great. You come to Shenzhen in November right? how far do you want to go in the rabbit hole of the **The Radio Game**?
 
 You could be many things:
-1) an Actor --> I come to SHZ to do my stuff, I like the idea. tell me what to do if somebody is asking me about something
-2) a member of the organizing team. I want to help Davide be in the Control Room (which is probably going to be a table with some chairs :)
-3) a Producer of a node --> I have Xiaos, meshtastic radios etc. I know the drill. I can make a full fledged in/out performance object that could be used in the event! 
+1) an **Actor** --> I come to SHZ to do my stuff, I like the idea. tell me what to do if somebody is asking me about something. [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team you want to be part as an actor.
+2) a **member of the organizing team**. I want to help the team be in the Control Room (which is probably going to be a table with some chairs :) [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team you want to be part as an organizer!
+3) a **Producer of a node** --> I have Xiaos, meshtastic radios etc. I know the drill. I can make a full fledged in/out performance object that could be used in the event! [Open an issue](https://github.com/vongomben/radio-game/issues/new) an/or tell the team how you want to sew this into an organic and complex, temporary mayhem.
 
 In the case of a Producer, these nodes are welcome:
 * a node that, doing a specific gesture🤌🏼, sends a message
