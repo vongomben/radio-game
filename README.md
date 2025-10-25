@@ -1,4 +1,4 @@
-# **The Radio Game** or **广播游戏** or **Il Gioco Radio** or 
+# **"The Radio Game"** or **"广播游戏"** or **"Il Gioco Radio"** or *"<insert your language>"* 
 a Meshtastic  powered, Borges/Boal/Propp inspired workshop toolkit to make events participants get to know specific elements of an event
 
 The first Radio Game is going to take place at Shenzhen Maker Faire 2025 
