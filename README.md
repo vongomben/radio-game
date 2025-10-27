@@ -91,6 +91,7 @@ We'll eventually manage the operations from Chaihuo Makerspace in the limited ti
 - [ ] Prizes. Will there be any? Gifted by Seeed?
 - [ ] Shall we involve other Meshtastic producers other than Seeed (I still have to check whether Seeed wants to be involved 🫣)
 - [ ] Rounds. We are going to have 2 rounds/games per day, 11 AM and 12 AM on saturday and sunday. Maybe we could do more. Let's see
+- [ ] Hendra: eash round should be introduced by a 30-40 min introduction about meshtastic, and [its installation on the user's smartphone](https://meshtastic.org/docs/software/android/installation/) -  Possibly by a chinese speaker?
 
 
 
