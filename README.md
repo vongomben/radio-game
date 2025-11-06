@@ -1,4 +1,4 @@
-# **"The Radio Game"** or **"广播游戏"** or **"Il Gioco Radio"** or **"Permainan Radio"** or *"<insert your language>"* 
+# **"The Radio Game"** or **"广播游戏"** or **"Il Gioco Radio"** or **"Permainan Radio"** or **"Radio Spiel"** or **"Radiowa gra terenowa"** or  *"<insert your language>"* 
 a Meshtastic  powered, Borges/Boal/Propp inspired workshop toolkit to make events participants get to know specific elements of an event
 
 The first Radio Game is going to take place at Shenzhen Maker Faire 2025 
@@ -94,6 +94,63 @@ We'll eventually manage the operations from Chaihuo Makerspace in the limited ti
 - [ ] Hendra: eash round should be introduced by a 30-40 min introduction about meshtastic, and [its installation on the user's smartphone](https://meshtastic.org/docs/software/android/installation/) -  Possibly by a chinese speaker?
 
 
+# Nodes
+
+We are going to deploy several nodes in the faire. These nodes must share some identifying feature, such as a sticker. It will probably be a sticker that identifies both players and actors (see: "The Sticker & NFCs" chapter).
+
+At the moment we have 3 nodes. 
+1) the Simple
+2) the Meshtastic one
+3) the Speaking one
+
+## The Simple
+
+The Simple Node is our MVP (Minimum Viable Product). 
+If EVERYTHING goes wrong we are going to hardcode hints in the code, allowing teams to jump to the next challenge (see: "Structures and Challenges" chapter).
+
+What does it do? It shares a message on the screen whenever the correct NFC is placed on the antenna. Also it changes colours based on this. 
+
+I've played a lot with meshbot in the last months and I have seen some behaviors that makes it unreliable, so I will also bring some safe plan B solutions.
+
+Casing? I'm going to use standard boxes, that would possibly be coloured (to be updated)
+
+![](./img/simple.png)  
+
+## The Meshtastic One
+
+This is obviously the most interesting node. We could send messages based on the NFC tags placed on the antenna. 
+These messages are to be sent in that group A or B (two groups at a time)
+
+One problems may be that in the shifting from the first to second reound we may need to either:
+a) erase those messages (apparently impossible?)
+b) reflash these nodes in order to give new or updated codes
+
+because I assume the messages will be still visible in the app :(
+
+![](./img/meshtastic.png)  
 
 
+
+## The Audio Node
+
+The Audio Node brings game to the next level, allowing us to record some chinese and english hints and use them. 
+It's basically a simple node hooked up to a [DFPlayer Mini Mp3 Player](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) anda speaker. 
+
+
+![](./img/audionode.png)  
+
+
+
+# The Sticker & NFCs
+
+Each player will be given a sticker that is going to be put on her / his cloth. 
+Each player will be given a T1000E Radio, already paired to be talking to the same group. 
+Each team (made of up to 4 player) will be given an NFC tag
+
+
+# Structures and Challenges
+
+Hendra made this map, which is super cool!
+
+![](./img/structure-hendra.jpg)
 
