@@ -31,7 +31,7 @@ But let's get back to the matter at hand, stop this cultural violins I know you 
 There are three types of users in this game:
 1) Event **participants**, divided into **groups** of 3-4 players.
 2) **Actors** within the event who will help the participants group to go in a certain direction.
-3) **Organizers** who monitor everything and produce the gmae.
+3) **Organizers** who monitor everything and produce the game.
 
 
 # How does it work?
@@ -40,6 +40,10 @@ Participants are given T1000E radios (or any Meshtastic radio?).
 Through the radios, they can communicate with each other and with the **game master** node, as well as with other users.
 
 **Example**: Mission #1 for group #1 is to take object #1 from the “man with the yellow hat”: they will have to find him using location tracking or simply by sight. The character will give them an object which, if taken to location #1, will allow them to move on to the next step. 
+
+[Hendra](https://github.com/chalei) made this map, which is super cool!
+
+![](./img/structure-hendra.jpg)
 
 ## Group #1
 
@@ -63,7 +67,8 @@ To be verified for use of the app, I think they must be of legal age (to be veri
 # Technology
 
 The idea behind this game is make people aware of the possibilities mesh communication have in an event scenario. 
-Me (as: the Game master, and the storyteller as of now), I think the whole game could be produced by simple human interactions (so no need of extra stuff!) but we are (going to be) in Shenzhen, and it's 2025.I know you want to automate and play with things. Pushing to the limit. 
+Me (as: the Game master, and the storyteller as of now), I think the whole game could be produced by simple human interactions (so no need of extra stuff!) but we are (going to be) in Shenzhen, and it's 2025.
+I know you want to automate and play with things. Pushing to the limit. 
 
 We could have nodes that behave and talk to the mesh using [meshbot](https://github.com/vongomben/meshbot).
 I'm about to release a version of meshbot using and NFC reader. Ths means we could have a node broadcasting the tags that open / trigger things.
@@ -85,14 +90,6 @@ In the case of a Producer, these nodes are welcome:
 Obvouisly, this has to meet the location's needs, and shouldn't bother or make the overall production more complex.
 
 We'll eventually manage the operations from Chaihuo Makerspace in the limited timed windows this project will happen.  
-
-# TODOs:
-
-- [ ] Prizes. Will there be any? Gifted by Seeed?
-- [ ] Shall we involve other Meshtastic producers other than Seeed (I still have to check whether Seeed wants to be involved 🫣)
-- [ ] Rounds. We are going to have 2 rounds/games per day, 11 AM and 12 AM on saturday and sunday. Maybe we could do more. Let's see
-- [ ] Hendra: eash round should be introduced by a 30-40 min introduction about meshtastic, and [its installation on the user's smartphone](https://meshtastic.org/docs/software/android/installation/) -  Possibly by a chinese speaker?
-
 
 # Nodes
 
@@ -148,9 +145,10 @@ Each player will be given a T1000E Radio, already paired to be talking to the sa
 Each team (made of up to 4 player) will be given an NFC tag
 
 
-# Structures and Challenges
 
-Hendra made this map, which is super cool!
+# TODOs:
 
-![](./img/structure-hendra.jpg)
-
+- [ ] Prizes. Will there be any? Gifted by Seeed?
+- [ ] Shall we involve other Meshtastic producers other than Seeed (I still have to check whether Seeed wants to be involved 🫣)
+- [ ] Rounds. We are going to have 2 rounds/games per day, 11 AM and 12 AM on saturday and sunday. Maybe we could do more. Let's see
+- [ ] Hendra: eash round should be introduced by a 30-40 min introduction about meshtastic, and [its installation on the user's smartphone](https://meshtastic.org/docs/software/android/installation/) -  Possibly by a chinese speaker?
